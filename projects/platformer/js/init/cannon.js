@@ -20,8 +20,10 @@
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
         // example: 
-        cannon.create.onTop(450);
-        
+        cannon.create.onTop(520);
+       cannon.create.onBottom(650);
+       cannon.create.onTop(250);
+       
         
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
